@@ -1,4 +1,4 @@
-# CodeAnt AI Frontend Developer Assignment Submission
+# CodeAnt AI Frontend Developer Intern Assignment Submission
 
 This repository contains the frontend implementation of the design provided in the Figma file ([Figma Design](https://www.figma.com/design/3j3bEI8nR1T1UwsfEBMbhi/Frontend-Developer-%3C%3E-CodeAnt?node-id=0-1&t=jN2Ajnc3ZzYZfEBs-1)). The implementation has been built using **Next.js**, **React**, and **shadcn/ui**. The project adheres to best practices for clean, maintainable, and scalable code.
 
