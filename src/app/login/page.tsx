@@ -145,7 +145,7 @@ export default function LoginPage() {
                 onClick={handleLogin}
               >
                 <Image
-                  src="/images/icon.png"
+                  src="/images/Icon.png"
                   alt="SSO"
                   width={20}
                   height={20}
