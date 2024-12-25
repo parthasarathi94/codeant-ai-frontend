@@ -8,7 +8,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { BookText, Check, ChevronDown, Cloud, Code2, HelpCircle, House, LogOut, Menu, Phone, Settings, X } from 'lucide-react'
+import { BookText, Check, ChevronDown, Cloud, Code2, House, LogOut, Menu, Phone, Settings, X } from 'lucide-react'
 import Image from "next/image"
 import Link from "next/link"
 import { useRouter, usePathname } from "next/navigation"
