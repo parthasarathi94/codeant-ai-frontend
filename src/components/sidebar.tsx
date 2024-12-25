@@ -183,10 +183,12 @@ export function Sidebar() {
                 {renderMenuItems()}
 
                 <div className="space-y-1">
-                  <Button variant="ghost" className="w-full justify-start gap-2">
-                    <HelpCircle className="h-4 w-4" />
-                    Support
-                  </Button>
+                  <Link href="/support" passHref>
+                    <Button variant="ghost" className="w-full justify-start gap-2">
+                      <Phone className="h-4 w-4" />
+                      Support
+                    </Button>
+                  </Link>
                   <Button
                     variant="ghost"
                     className="w-full justify-start gap-2"
